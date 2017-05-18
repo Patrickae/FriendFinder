@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find friends usung a survey and comparing saved friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrickae/FriendFinder.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "server",
+    "survery",
+    "friends"
+  ],
+  "author": "Andy Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrickae/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Patrickae/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
