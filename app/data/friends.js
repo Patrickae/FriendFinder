@@ -5,7 +5,7 @@ var friends = [{
 				},
 				{
 					name:"Bill",
-					image: "http://sites.austincc.edu/jrnl/wp-content/uploads/sites/50/2015/07/placeholder.gif",
+					image: "http://cdn.akc.org/HomepageImages/Golden_Retriever_Schultz_head.jpg",
 					answers:[5,5,5,5,5,5,5,5,5,5]
 				},
 				{
