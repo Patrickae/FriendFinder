@@ -1,6 +1,6 @@
 var friends = [{
 					name: "Jim",
-					image: "https://placeholdit.imgix.net/~text?txtsize=28&bg=0099ff&txtclr=ffffff&txt=300%C3%97300&w=300&h=300",
+					image: "https://cdn1.lockerdome.com/uploads/2d5add9444c1c24769d60f2bc4198c6c3a0b86601e2d3f4082dbc1923ee30ed8_large",
 					answers: [1,1,1,1,1,1,1,1,1,1]
 				},
 				{
