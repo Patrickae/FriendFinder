@@ -2,6 +2,9 @@
   "name": "friendfinder",
   "version": "1.0.0",
   "description": "find friends usung a survey and comparing saved friends",
+  "engines": {
+    "node": "8.1.4"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
