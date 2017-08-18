@@ -1,5 +1,7 @@
 # FriendFinder
 
+Try out Friend Finder [here](https://friendfinder-project.herokuapp.com/)
+
 Friend finder will propmt you to take a survey and find the best match for you!
 
 first you will go to localhost:3000 or 3000/home to get to the home page.
